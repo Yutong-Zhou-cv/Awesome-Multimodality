@@ -22,7 +22,7 @@ A collection of resources on multimodal learning research.
 ## <span id="head2"> *2.Paper With Code* </span>
 
 * <span id="head-Survey"> **Survey**  </span>
-
+    * (arXiv preprint 2021) **A Survey on Multi-modal Summarization**, Anubhav Jangra et al. [[v1](https://arxiv.org/pdf/2109.05199.pdf)](2021.09.11) 
 * <span id="head-2021"> **2021**  </span>
     * (ICCV 2021 **Oral**) [Text-guided Image Manipulation] **StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery**, Or Patashnik et al. [[Paper](https://arxiv.org/abs/2103.17249)] [[Code](https://github.com/orpatashnik/StyleCLIP)] [[Play](https://replicate.ai/orpatashnik/styleclip)]
     * (ICCV 2021) [Facial Editing] **Talk-to-Edit: Fine-Grained Facial Editing via Dialog**, Yuming Jiang et al. [[Paper](https://arxiv.org/abs/2109.04425)] [[Code](https://github.com/yumingj/Talk-to-Edit)] [[Project](https://www.mmlab-ntu.com/project/talkedit/)] [[Dataset Project](https://mmlab.ie.cuhk.edu.hk/projects/CelebA/CelebA_Dialog.html)] [[Dataset(CelebA-Dialog Dataset)](https://drive.google.com/drive/folders/18nejI_hrwNzWyoF6SW8bL27EYnM4STAs)] 
