@@ -12,6 +12,8 @@ A collection of resources on multimodal learning research.
   * - [ ] [2021](#head-2021)
   * - [ ] [2020](#head-2020)
 
+* - [ ] [3. Courses](#head4)
+
 * [*Contact Me*](#head3)
 
 ## <span id="head1"> *1.Description* </span>
@@ -29,6 +31,10 @@ A collection of resources on multimodal learning research.
     * (arXiv preprint 2021) [Video Action Recognition] **ActionCLIP: A New Paradigm for Video Action Recognition**, Mengmeng Wang et al. [[Paper](https://arxiv.org/abs/2109.08472)] 
 
 * <span id="head-2020"> **2020**  </span>
+
+## <span id="head4"> *3.Courses* </span>
+
+* [CMU Multimodal Learning](https://cmu-multicomp-lab.github.io/mmml-course/fall2020/)
 
 ## <span id="head3"> *Contact Me* </span>
 
