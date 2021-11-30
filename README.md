@@ -27,6 +27,9 @@ A collection of resources on multimodal learning research.
     * (arXiv preprint 2021) **A Survey on Multi-modal Summarization**, Anubhav Jangra et al. [[v1](https://arxiv.org/pdf/2109.05199.pdf)](2021.09.11) 
     
 * <span id="head-2021"> **2021**  </span>
+    * (arXiv preprint 2021) [💬Visual Synthesis] **NÜWA: Visual Synthesis Pre-training for Neural visUal World creAtion**, Chenfei Wu et al. [[Paper](https://arxiv.org/abs/2111.12417)] [[Code](https://github.com/microsoft/NUWA)]
+     ![Figure from paper](pic/NUWA.gif)
+     > *(From: https://github.com/microsoft/NUWA [2021/11/30])*
     * (ICCV 2021) [💬Video-Text Alignment] **TACo: Token-aware Cascade Contrastive Learning for Video-Text Alignment**, Jianwei Yang et al. [[Paper](https://arxiv.org/abs/2108.09980)]
     * (arXiv preprint 2021) [💬Class-agnostic Object Detection] **Multi-modal Transformers Excel at Class-agnostic Object Detection**, Muhammad Maaz et al. [[Paper](https://arxiv.org/abs/2111.11430v1)] [[Code](https://github.com/mmaaz60/mvits_for_class_agnostic_od)]
     * (ACMMM 2021) [💬Video-Text Retrieval] **HANet: Hierarchical Alignment Networks for Video-Text Retrieval**, Peng Wu et al. [[Paper](https://dl.acm.org/doi/abs/10.1145/3474085.3475515)] [[Code](https://github.com/Roc-Ng/HANet)]
