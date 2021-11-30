@@ -27,6 +27,7 @@ A collection of resources on multimodal learning research.
     * (arXiv preprint 2021) **A Survey on Multi-modal Summarization**, Anubhav Jangra et al. [[v1](https://arxiv.org/pdf/2109.05199.pdf)](2021.09.11) 
     
 * <span id="head-2021"> **2021**  </span>
+    * (ICCV 2021) [💬Video-Text Alignment] **TACo: Token-aware Cascade Contrastive Learning for Video-Text Alignment**, Jianwei Yang et al. [[Paper](https://arxiv.org/abs/2108.09980)]
     * (arXiv preprint 2021) [💬Class-agnostic Object Detection] **Multi-modal Transformers Excel at Class-agnostic Object Detection**, Muhammad Maaz et al. [[Paper](https://arxiv.org/abs/2111.11430v1)] [[Code](https://github.com/mmaaz60/mvits_for_class_agnostic_od)]
     * (ACMMM 2021) [💬Video-Text Retrieval] **HANet: Hierarchical Alignment Networks for Video-Text Retrieval**, Peng Wu et al. [[Paper](https://dl.acm.org/doi/abs/10.1145/3474085.3475515)] [[Code](https://github.com/Roc-Ng/HANet)]
     * (ICCV 2021) [💬Video Recognition] **AdaMML: Adaptive Multi-Modal Learning for Efficient Video Recognition**, Rameswar Panda et al. [[Paper](https://rpand002.github.io/data/ICCV_2021_adamml.pdf)] [[Project](https://rpand002.github.io/adamml.html)] [[Code](https://github.com/IBM/AdaMML)]
