@@ -6,25 +6,33 @@ A collection of resources on multimodal learning research.
 
 ## <span id="head-content"> *Content* </span>
 * - [ ] [1. Description](#head1)
-
-* - [ ] [2. Paper With Code](#head2)
+* - [ ] [2. Topic Order](#head2)
+  * - [ ] [Survey](#head-Survey)
+  * - [ ] [💬Vision and language Pre-training (VLP)](#head-VLP)
+* - [ ] [3. Chronological Order](#head3)
   * - [ ] [Survey](#head-Survey)
   * - [ ] [2021](#head-2021)
   * - [ ] [2020](#head-2020)
 
-* - [ ] [3. Courses](#head4)
+* - [ ] [4. Courses](#head4)
 
-* [*Contact Me*](#head3)
+* [*Contact Me*](#head5)
 
 ## <span id="head1"> *1.Description* </span>
 
 >🐌 Markdown Format:
 > * (Conference/Journal Year) [Task/Keywords] **Title**, First Author et al. [[Paper](URL)] [[Code](URL)] [[Project](URL)]
-> 
-## <span id="head2"> *2.Paper With Code* </span>
+
+## <span id="head2"> *2. Topic Order* </span>
 
 * <span id="head-Survey"> **Survey**  </span>
     * (arXiv preprint 2021) **A Survey on Multi-modal Summarization**, Anubhav Jangra et al. [[v1](https://arxiv.org/pdf/2109.05199.pdf)](2021.09.11) 
+
+* <span id="head-VLP"> **💬Vision and language Pre-training (VLP)**  </span>
+    * (ICML 2021) **ViLT: Vision-and-Language Transformer Without Convolution or Region Supervision**, Wonjae Kim et al. [[Paper](https://arxiv.org/abs/2102.03334)]
+      * Tasks: Image Text Matching, Masked Language Modeling
+
+## <span id="head3"> *3. Chronological Order* </span>
     
 * <span id="head-2021"> **2021**  </span>
     * (arXiv preprint 2021) [💬Visual Synthesis] **NÜWA: Visual Synthesis Pre-training for Neural visUal World creAtion**, Chenfei Wu et al. [[Paper](https://arxiv.org/abs/2111.12417)] [[Code](https://github.com/microsoft/NUWA)]
@@ -46,7 +54,7 @@ A collection of resources on multimodal learning research.
 
 * [CMU Multimodal Learning](https://cmu-multicomp-lab.github.io/mmml-course/fall2020/)
 
-## <span id="head3"> *Contact Me* </span>
+## <span id="head5"> *Contact Me* </span>
 
 * [Yutong ZHOU](https://github.com/Yutong-Zhou-cv) in [Interaction Laboratory, Ritsumeikan University.](https://github.com/Rits-Interaction-Laboratory) ଘ(੭*ˊᵕˋ)੭
 
