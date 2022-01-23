@@ -11,6 +11,7 @@ A collection of resources on multimodal learning research.
   * - [ ] [💬Vision and language Pre-training (VLP)](#head-VLP)
 * - [ ] [3. Chronological Order](#head3)
   * - [ ] [Survey](#head-Survey)
+  * - [ ] [2022](#head-2022)
   * - [ ] [2021](#head-2021)
   * - [ ] [2020](#head-2020)
 
@@ -33,7 +34,10 @@ A collection of resources on multimodal learning research.
       * Tasks: Image Text Matching, Masked Language Modeling
 
 ## <span id="head3"> *3. Chronological Order* </span>
-    
+
+* <span id="head-2022"> **2022**  </span>
+    * (arXiv preprint 2022) [💬Hyper-text Language-image Model] **CM3: A Causal Masked Multimodal Model of the Internet**, Armen Aghajanyan et al. [[Paper](https://arxiv.org/abs/2201.07520)] 
+
 * <span id="head-2021"> **2021**  </span>
     * (arXiv preprint 2021) [💬Visual Synthesis] **NÜWA: Visual Synthesis Pre-training for Neural visUal World creAtion**, Chenfei Wu et al. [[Paper](https://arxiv.org/abs/2111.12417)] [[Code](https://github.com/microsoft/NUWA)]
      ![Figure from paper](pic/NUWA.gif)
