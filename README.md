@@ -31,6 +31,7 @@ A collection of resources on multimodal learning research.
 
 * <span id="head-VLP"> **💬Vision and language Pre-training (VLP)**  </span>
     * (arXiv preprint 2022) **BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation**, Junnan Li et al. [[Paper](https://arxiv.org/abs/2201.12086)] [[Code](https://github.com/salesforce/BLIP)]
+      * Tasks: Image-text Retrieval, Image Captioning, Visual Question Answering, Visual Reasoning, Visual Dialog
     * (ICML 2021) **ViLT: Vision-and-Language Transformer Without Convolution or Region Supervision**, Wonjae Kim et al. [[Paper](https://arxiv.org/abs/2102.03334)]
       * Tasks: Image Text Matching, Masked Language Modeling
 
