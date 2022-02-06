@@ -30,8 +30,10 @@ A collection of resources on multimodal learning research.
     * (arXiv preprint 2021) **A Survey on Multi-modal Summarization**, Anubhav Jangra et al. [[v1](https://arxiv.org/pdf/2109.05199.pdf)](2021.09.11) 
 
 * <span id="head-VLP"> **💬Vision and language Pre-training (VLP)**  </span>
+    * (arXiv preprint 2022) **BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation**, Junnan Li et al. [[Paper](https://arxiv.org/abs/2201.12086)] [[Code](https://github.com/salesforce/BLIP)]
     * (ICML 2021) **ViLT: Vision-and-Language Transformer Without Convolution or Region Supervision**, Wonjae Kim et al. [[Paper](https://arxiv.org/abs/2102.03334)]
       * Tasks: Image Text Matching, Masked Language Modeling
+
 
 ## <span id="head3"> *3. Chronological Order* </span>
 
