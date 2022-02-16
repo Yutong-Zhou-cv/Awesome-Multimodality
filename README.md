@@ -27,6 +27,7 @@ A collection of resources on multimodal learning research.
 ## <span id="head2"> *2. Topic Order* </span>
 
 * <span id="head-Survey"> **Survey**  </span>
+    * (arXiv preprint 2022) [💬Multi-Modal Knowledge Graph] **Multi-Modal Knowledge Graph Construction and Application: A Survey**, Xiangru Zhu et al. [[v1](https://arxiv.org/pdf/2202.05786.pdf)](2022.02.11) 
     * (arXiv preprint 2021) **A Survey on Multi-modal Summarization**, Anubhav Jangra et al. [[v1](https://arxiv.org/pdf/2109.05199.pdf)](2021.09.11) 
 
 * <span id="head-VLP"> **💬Vision and language Pre-training (VLP)**  </span>
