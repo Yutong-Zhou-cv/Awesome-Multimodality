@@ -31,6 +31,8 @@ A collection of resources on multimodal learning research.
     * (arXiv preprint 2022) [💬Vision and language Pre-training (VLP)] **A Survey of Vision-Language Pre-Trained Models**, Yifan Du et al. [[v1](https://arxiv.org/abs/2202.10936)](2022.02.18) 
     * (arXiv preprint 2022) [💬Multi-Modal Knowledge Graph] **Multi-Modal Knowledge Graph Construction and Application: A Survey**, Xiangru Zhu et al. [[v1](https://arxiv.org/pdf/2202.05786.pdf)](2022.02.11) 
     * (arXiv preprint 2021) **A Survey on Multi-modal Summarization**, Anubhav Jangra et al. [[v1](https://arxiv.org/pdf/2109.05199.pdf)](2021.09.11) 
+    * (Information Fusion 2021) [💬Vision and language] **Multimodal research in vision and language: A review of current and emerging trends**, ShagunUppal et al. [[v1](https://www.sciencedirect.com/science/article/pii/S1566253521001512)](2021.08.01) 
+
 
 * <span id="head-VLP"> **💬Vision and language Pre-training (VLP)**  </span>
     * (arXiv preprint 2022) **Vision-Language Pre-Training with Triple Contrastive Learning**, Jinyu Yang et al. [[Paper](https://arxiv.org/abs/2202.10401)] [[Code](https://github.com/uta-smile/TCL)]
