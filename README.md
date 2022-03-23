@@ -48,7 +48,8 @@ A collection of resources on multimodal learning research.
 ## <span id="head3"> *3. Chronological Order* </span>
 
 * <span id="head-2022"> **2022**  </span>
-    * (arXiv preprint 2021) [💬Image+Videos+3D Data Recognition] **Omnivore: A Single Model for Many Visual Modalities**, Rohit Girdhar et al. [[Paper](https://arxiv.org/abs/2201.08377)] [[Code](https://github.com/facebookresearch/omnivore)] [[Project](https://facebookresearch.github.io/omnivore/)]
+    * (arXiv preprint 2022) [💬Dataset] **WuDaoMM: A large-scale Multi-Modal Dataset for Pre-training models**, Sha Yuan et al. [[Paper](https://arxiv.org/abs/2203.11480)] [[Download](https://github.com/BAAI-WuDao/WuDaoMM/)]
+    * (arXiv preprint 2022) [💬Image+Videos+3D Data Recognition] **Omnivore: A Single Model for Many Visual Modalities**, Rohit Girdhar et al. [[Paper](https://arxiv.org/abs/2201.08377)] [[Code](https://github.com/facebookresearch/omnivore)] [[Project](https://facebookresearch.github.io/omnivore/)]
     * (arXiv preprint 2022) [💬Hyper-text Language-image Model] **CM3: A Causal Masked Multimodal Model of the Internet**, Armen Aghajanyan et al. [[Paper](https://arxiv.org/abs/2201.07520)] 
 
 * <span id="head-2021"> **2021**  </span>
