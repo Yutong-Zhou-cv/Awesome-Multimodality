@@ -8,6 +8,7 @@ A collection of resources on multimodal learning research.
 * - [ ] [1. Description](#head1)
 * - [ ] [2. Topic Order](#head2)
   * - [ ] [Survey](#head-Survey)
+  * - [ ] [💬Dataset](#head-dataset)
   * - [ ] [💬Vision and language Pre-training (VLP)](#head-VLP)
 * - [ ] [3. Chronological Order](#head3)
   * - [ ] [Survey](#head-Survey)
@@ -33,6 +34,13 @@ A collection of resources on multimodal learning research.
     * (arXiv preprint 2021) **A Survey on Multi-modal Summarization**, Anubhav Jangra et al. [[v1](https://arxiv.org/pdf/2109.05199.pdf)](2021.09.11) 
     * (Information Fusion 2021) [💬Vision and language] **Multimodal research in vision and language: A review of current and emerging trends**, ShagunUppal et al. [[v1](https://www.sciencedirect.com/science/article/pii/S1566253521001512)](2021.08.01) 
 
+* <span id="head-dataset"> **💬Dataset**  </span>
+    * (arXiv preprint 2022) **Wukong: 100 Million Large-scale Chinese Cross-modal Pre-training Dataset and A Foundation Framework**, Jiaxi Gu et al. [[Paper](https://arxiv.org/abs/2202.06767)] [[Download](https://wukong-dataset.github.io/wukong-dataset/download.html)]
+        * The Noah-Wukong dataset is a large-scale multi-modality Chinese dataset.
+        * The dataset contains 100 Million <image, text> pairs
+        * Images in the datasets are filtered according to the size ( > 200px for both dimensions ) and aspect ratio ( 1/3 ~ 3 )
+        * Text in the datasets are filtered according to its language, length and frequency. Privacy and sensitive words are also taken into consideration.
+    * (arXiv preprint 2022) **WuDaoMM: A large-scale Multi-Modal Dataset for Pre-training models**, Sha Yuan et al. [[Paper](https://arxiv.org/abs/2203.11480)] [[Download](https://github.com/BAAI-WuDao/WuDaoMM/)]
 
 * <span id="head-VLP"> **💬Vision and language Pre-training (VLP)**  </span>
     * (arXiv preprint 2022) **Vision-Language Pre-Training with Triple Contrastive Learning**, Jinyu Yang et al. [[Paper](https://arxiv.org/abs/2202.10401)] [[Code](https://github.com/uta-smile/TCL)]
@@ -48,7 +56,6 @@ A collection of resources on multimodal learning research.
 ## <span id="head3"> *3. Chronological Order* </span>
 
 * <span id="head-2022"> **2022**  </span>
-    * (arXiv preprint 2022) [💬Dataset] **WuDaoMM: A large-scale Multi-Modal Dataset for Pre-training models**, Sha Yuan et al. [[Paper](https://arxiv.org/abs/2203.11480)] [[Download](https://github.com/BAAI-WuDao/WuDaoMM/)]
     * (arXiv preprint 2022) [💬Image+Videos+3D Data Recognition] **Omnivore: A Single Model for Many Visual Modalities**, Rohit Girdhar et al. [[Paper](https://arxiv.org/abs/2201.08377)] [[Code](https://github.com/facebookresearch/omnivore)] [[Project](https://facebookresearch.github.io/omnivore/)]
     * (arXiv preprint 2022) [💬Hyper-text Language-image Model] **CM3: A Causal Masked Multimodal Model of the Internet**, Armen Aghajanyan et al. [[Paper](https://arxiv.org/abs/2201.07520)] 
 
