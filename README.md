@@ -56,6 +56,7 @@ A collection of resources on multimodal learning research.
 ## <span id="head3"> *3. Chronological Order* </span>
 
 * <span id="head-2022"> **2022**  </span>
+    * (CVPR 2022) [💬Food Retrieval] **Transformer Decoders with MultiModal Regularization for Cross-Modal Food Retrieval**, Mustafa Shukor et al. [[Paper](https://arxiv.org/abs/2204.09730)] [[Code](https://github.com/mshukor/TFood)] 
     * (arXiv preprint 2022) [💬Image+Videos+3D Data Recognition] **Omnivore: A Single Model for Many Visual Modalities**, Rohit Girdhar et al. [[Paper](https://arxiv.org/abs/2201.08377)] [[Code](https://github.com/facebookresearch/omnivore)] [[Project](https://facebookresearch.github.io/omnivore/)]
     * (arXiv preprint 2022) [💬Hyper-text Language-image Model] **CM3: A Causal Masked Multimodal Model of the Internet**, Armen Aghajanyan et al. [[Paper](https://arxiv.org/abs/2201.07520)] 
 
