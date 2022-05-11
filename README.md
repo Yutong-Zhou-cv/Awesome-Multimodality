@@ -1,4 +1,4 @@
-# <p align=center>`Awesome Multimodality`</p>
+# <p align=center> Awesome Multimodality 🎶📜</p>
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
@@ -43,6 +43,8 @@ A collection of resources on multimodal learning research.
     * (arXiv preprint 2022) **WuDaoMM: A large-scale Multi-Modal Dataset for Pre-training models**, Sha Yuan et al. [[Paper](https://arxiv.org/abs/2203.11480)] [[Download](https://github.com/BAAI-WuDao/WuDaoMM/)]
 
 * <span id="head-VLP"> **💬Vision and language Pre-training (VLP)**  </span>
+    * (arXiv preprint 2022) **Zero and R2D2: A Large-scale Chinese Cross-modal Benchmark and A Vision-Language Framework**, Chunyu Xie et al. [[Paper](https://arxiv.org/abs/2205.03860)]
+      * Downstream Tasks: Image-text Retrieval, Chinese Image-text matching
     * (arXiv preprint 2022) **Vision-Language Pre-Training with Triple Contrastive Learning**, Jinyu Yang et al. [[Paper](https://arxiv.org/abs/2202.10401)] [[Code](https://github.com/uta-smile/TCL)]
       * Downstream Tasks: Image-text Retrieval, Visual Question Answering, Visual Entailment, Visual Reasoning
     * (arXiv preprint 2022) **MVP: Multi-Stage Vision-Language Pre-Training via Multi-Level Semantic Alignment**, Zejun Li et al. [[Paper](https://arxiv.org/abs/2201.12596)]
