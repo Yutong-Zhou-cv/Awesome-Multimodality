@@ -43,6 +43,8 @@ A collection of resources on multimodal learning research.
     * (arXiv preprint 2022) **WuDaoMM: A large-scale Multi-Modal Dataset for Pre-training models**, Sha Yuan et al. [[Paper](https://arxiv.org/abs/2203.11480)] [[Download](https://github.com/BAAI-WuDao/WuDaoMM/)]
 
 * <span id="head-VLP"> **💬Vision and language Pre-training (VLP)**  </span>
+    * ⭐(arXiv preprint 2022) **One Model, Multiple Modalities: A Sparsely Activated Approach for Text, Sound, Image, Video and Code**, Yong Dai et al. [[Paper](https://arxiv.org/abs/2205.06126)]
+      * Downstream Tasks: Text Classification, Automatic Speech Recognition, Text-to-Image Retrieval, Text-to-Video Retrieval, Text-to-Code Retrieval
     * (arXiv preprint 2022) **Zero and R2D2: A Large-scale Chinese Cross-modal Benchmark and A Vision-Language Framework**, Chunyu Xie et al. [[Paper](https://arxiv.org/abs/2205.03860)]
       * Downstream Tasks: Image-text Retrieval, Chinese Image-text matching
     * (arXiv preprint 2022) **Vision-Language Pre-Training with Triple Contrastive Learning**, Jinyu Yang et al. [[Paper](https://arxiv.org/abs/2202.10401)] [[Code](https://github.com/uta-smile/TCL)]
