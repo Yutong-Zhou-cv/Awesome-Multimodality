@@ -60,6 +60,7 @@ A collection of resources on multimodal learning research.
 ## <span id="head3"> *3. Chronological Order* </span>
 
 * <span id="head-2022"> **2022**  </span>
+    * (CVPR 2022) [💬Text-Video Retrieval] **X-Pool: Cross-Modal Language-Video Attention for Text-Video Retrieval**, Satya Krishna Gorti et al. [[Paper]([https://arxiv.org/abs/2204.09730](https://arxiv.org/abs/2203.15086))] [[Code]([https://github.com/mshukor/TFood](https://github.com/layer6ai-labs/xpool))] [[Project]([https://arxiv.org/abs/2201.07520](https://layer6ai-labs.github.io/xpool/))] 
     * (NAACL 2022 2022) [💬Visual Commonsense] **Visual Commonsense in Pretrained Unimodal and Multimodal Models**, Chenyu Zhang et al. [[Paper](https://arxiv.org/abs/2205.01850)] [[Code](https://github.com/ChenyuHeidiZhang/VL-commonsense)]
     * (arXiv preprint 2022) [💬Pretraining framework] **i-Code: An Integrative and Composable Multimodal Learning Framework**, Ziyi Yang et al. [[Paper](https://arxiv.org/abs/2205.01818)]
     * (CVPR 2022) [💬Food Retrieval] **Transformer Decoders with MultiModal Regularization for Cross-Modal Food Retrieval**, Mustafa Shukor et al. [[Paper](https://arxiv.org/abs/2204.09730)] [[Code](https://github.com/mshukor/TFood)] 
