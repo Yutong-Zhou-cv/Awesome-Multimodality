@@ -1,8 +1,20 @@
 # <p align=center> Awesome Multimodality 🎶📜</p>
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+<div align=center>
+
+<p>
+ 
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 
+ ![GitHub stars](https://img.shields.io/github/stars/Yutong-Zhou-cv/Awesome-Multimodality.svg?color=red&style=for-the-badge) 
+ ![GitHub forks](https://img.shields.io/github/forks/Yutong-Zhou-cv/Awesome-Multimodality.svg?color=yellow&style=for-the-badge) 
+ ![GitHub activity](https://img.shields.io/github/last-commit/Yutong-Zhou-cv/Awesome-Multimodality?style=for-the-badge) 
+ ![Visitors](https://visitor-badge.glitch.me/badge?page_id=Yutong-Zhou-cv/Awesome-Multimodality) 
+
+</p>
 
 A collection of resources on multimodal learning research.
+ 
+</div>
 
 ## <span id="head-content"> *Content* </span>
 * - [ ] [1. Description](#head1)
@@ -43,6 +55,8 @@ A collection of resources on multimodal learning research.
     * (arXiv preprint 2022) **WuDaoMM: A large-scale Multi-Modal Dataset for Pre-training models**, Sha Yuan et al. [[Paper](https://arxiv.org/abs/2203.11480)] [[Download](https://github.com/BAAI-WuDao/WuDaoMM/)]
 
 * <span id="head-VLP"> **💬Vision and language Pre-training (VLP)**  </span>
+    * (CVPR 2022) **Unsupervised Vision-and-Language Pre-training via Retrieval-based Multi-Granular Alignment**, Mingyang Zhou et al. [[Paper](https://arxiv.org/abs/2203.00242)] [[Code](https://github.com/zmykevin/UVLP)]
+      * Downstream Tasks: Visual Question Answering(VQA), Natural Language for Visual reasoning(NLVR2), Visual Entailment, Referring Expression(RefCOCO+)    
     * ⭐(arXiv preprint 2022) **One Model, Multiple Modalities: A Sparsely Activated Approach for Text, Sound, Image, Video and Code**, Yong Dai et al. [[Paper](https://arxiv.org/abs/2205.06126)]
       * Downstream Tasks: Text Classification, Automatic Speech Recognition, Text-to-Image Retrieval, Text-to-Video Retrieval, Text-to-Code Retrieval
     * (arXiv preprint 2022) **Zero and R2D2: A Large-scale Chinese Cross-modal Benchmark and A Vision-Language Framework**, Chunyu Xie et al. [[Paper](https://arxiv.org/abs/2205.03860)]
