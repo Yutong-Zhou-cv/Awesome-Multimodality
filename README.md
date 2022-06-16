@@ -45,7 +45,7 @@ A collection of resources on multimodal learning research.
 * ```📌: The first...```
 * 🚀: State-of-the-Art
 * 👑: Novel dataset/model
-* 📚：Multiple Tasks 
+* 📚：Downstream Tasks 
 
 ## <span id="head2"> *2. Topic Order* </span>
 
@@ -65,6 +65,9 @@ A collection of resources on multimodal learning research.
     * (arXiv preprint 2022) **WuDaoMM: A large-scale Multi-Modal Dataset for Pre-training models**, Sha Yuan et al. [[Paper](https://arxiv.org/abs/2203.11480)] [[Download](https://github.com/BAAI-WuDao/WuDaoMM/)]
 
 * <span id="head-VLP"> **💬 Vision and language Pre-training (VLP)**  </span>
+    * ⭐⭐(ICML 2022) **Multi-Grained Vision Language Pre-Training: Aligning Texts with Visual Concepts**, Yan Zeng et al. [[Paper](https://arxiv.org/abs/2111.08276)] [[Code](https://github.com/zengyan-97/X-VLM)]
+      * 🚀 SOTA(2022/06/16): Cross-Modal Retrieval on COCO 2014 & Flickr30k, Visual Grounding on RefCOCO+ val & RefCOCO+ testA, RefCOCO+ testB 
+      * 📚 Downstream Tasks: Image-Text Retrieval, Visual Question Answering (VQA), Natural Language for Visual Reasoning (NLVR2), Visual Grounding, Image Captioning
     * ⭐⭐(arXiv preprint 2022) **Multimodal Contrastive Learning with LIMoE: the Language-Image Mixture of Experts**, Basil Mustafa et al. [[Paper](https://arxiv.org/abs/2206.02770)] [[Blog](https://ai.googleblog.com/2022/06/limoe-learning-multiple-modalities-with.html)]
       * 📌 LIMoE: The first large-scale multimodal mixture of experts models.
     * (CVPR 2022) **Unsupervised Vision-and-Language Pre-training via Retrieval-based Multi-Granular Alignment**, Mingyang Zhou et al. [[Paper](https://arxiv.org/abs/2203.00242)] [[Code](https://github.com/zmykevin/UVLP)]
