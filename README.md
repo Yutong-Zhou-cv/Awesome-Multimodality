@@ -20,8 +20,8 @@ A collection of resources on multimodal learning research.
 * - [ ] [1. Description](#head1)
 * - [ ] [2. Topic Order](#head2)
   * - [ ] [Survey](#head-Survey)
-  * - [ ] [💬Dataset](#head-dataset)
-  * - [ ] [💬Vision and language Pre-training (VLP)](#head-VLP)
+  * - [ ] [👑 Dataset](#head-dataset)
+  * - [ ] [💬 Vision and language Pre-training (VLP)](#head-VLP)
 * - [ ] [3. Chronological Order](#head3)
   * - [ ] [Survey](#head-Survey)
   * - [ ] [2022](#head-2022)
@@ -35,7 +35,17 @@ A collection of resources on multimodal learning research.
 ## <span id="head1"> *1.Description* </span>
 
 >🐌 Markdown Format:
-> * (Conference/Journal Year) [Task/Keywords] **Title**, First Author et al. [[Paper](URL)] [[Code](URL)] [[Project](URL)]
+>
+> * (Conference/Journal Year) **Title**, First Author et al. [[Paper](URL)] [[Code](URL)] [[Project](URL)] <br/>
+> * (Conference/Journal Year) [💬Topic] **Title**, First Author et al. [[Paper](URL)] [[Code](URL)] [[Project](URL)]
+>     * (Optional) ```🌱``` or ```📌 ```
+>     * (Optional) 🚀 or 👑 or 📚
+
+* ```🌱: Novel idea```
+* ```📌: The first...```
+* 🚀: State-of-the-Art
+* 👑: Novel dataset/model
+* 📚：Multiple Tasks 
 
 ## <span id="head2"> *2. Topic Order* </span>
 
@@ -46,7 +56,7 @@ A collection of resources on multimodal learning research.
     * (arXiv preprint 2021) **A Survey on Multi-modal Summarization**, Anubhav Jangra et al. [[v1](https://arxiv.org/pdf/2109.05199.pdf)](2021.09.11) 
     * (Information Fusion 2021) [💬Vision and language] **Multimodal research in vision and language: A review of current and emerging trends**, ShagunUppal et al. [[v1](https://www.sciencedirect.com/science/article/pii/S1566253521001512)](2021.08.01) 
 
-* <span id="head-dataset"> **💬Dataset**  </span>
+* <span id="head-dataset"> **👑 Dataset**  </span>
     * (arXiv preprint 2022) **Wukong: 100 Million Large-scale Chinese Cross-modal Pre-training Dataset and A Foundation Framework**, Jiaxi Gu et al. [[Paper](https://arxiv.org/abs/2202.06767)] [[Download](https://wukong-dataset.github.io/wukong-dataset/download.html)]
         * The Noah-Wukong dataset is a large-scale multi-modality Chinese dataset.
         * The dataset contains 100 Million <image, text> pairs
@@ -54,21 +64,23 @@ A collection of resources on multimodal learning research.
         * Text in the datasets are filtered according to its language, length and frequency. Privacy and sensitive words are also taken into consideration.
     * (arXiv preprint 2022) **WuDaoMM: A large-scale Multi-Modal Dataset for Pre-training models**, Sha Yuan et al. [[Paper](https://arxiv.org/abs/2203.11480)] [[Download](https://github.com/BAAI-WuDao/WuDaoMM/)]
 
-* <span id="head-VLP"> **💬Vision and language Pre-training (VLP)**  </span>
+* <span id="head-VLP"> **💬 Vision and language Pre-training (VLP)**  </span>
+    * ⭐⭐(arXiv preprint 2022) **Multimodal Contrastive Learning with LIMoE: the Language-Image Mixture of Experts**, Basil Mustafa et al. [[Paper](https://arxiv.org/abs/2206.02770)] [[Blog](https://ai.googleblog.com/2022/06/limoe-learning-multiple-modalities-with.html)]
+      * 📌 LIMoE: The first large-scale multimodal mixture of experts models.
     * (CVPR 2022) **Unsupervised Vision-and-Language Pre-training via Retrieval-based Multi-Granular Alignment**, Mingyang Zhou et al. [[Paper](https://arxiv.org/abs/2203.00242)] [[Code](https://github.com/zmykevin/UVLP)]
-      * Downstream Tasks: Visual Question Answering(VQA), Natural Language for Visual reasoning(NLVR2), Visual Entailment, Referring Expression(RefCOCO+)    
+      * 📚 Downstream Tasks: Visual Question Answering(VQA), Natural Language for Visual reasoning(NLVR2), Visual Entailment, Referring Expression(RefCOCO+)    
     * ⭐(arXiv preprint 2022) **One Model, Multiple Modalities: A Sparsely Activated Approach for Text, Sound, Image, Video and Code**, Yong Dai et al. [[Paper](https://arxiv.org/abs/2205.06126)]
-      * Downstream Tasks: Text Classification, Automatic Speech Recognition, Text-to-Image Retrieval, Text-to-Video Retrieval, Text-to-Code Retrieval
+      * 📚 Downstream Tasks: Text Classification, Automatic Speech Recognition, Text-to-Image Retrieval, Text-to-Video Retrieval, Text-to-Code Retrieval
     * (arXiv preprint 2022) **Zero and R2D2: A Large-scale Chinese Cross-modal Benchmark and A Vision-Language Framework**, Chunyu Xie et al. [[Paper](https://arxiv.org/abs/2205.03860)]
-      * Downstream Tasks: Image-text Retrieval, Chinese Image-text matching
+      * 📚 Downstream Tasks: Image-text Retrieval, Chinese Image-text matching
     * (arXiv preprint 2022) **Vision-Language Pre-Training with Triple Contrastive Learning**, Jinyu Yang et al. [[Paper](https://arxiv.org/abs/2202.10401)] [[Code](https://github.com/uta-smile/TCL)]
-      * Downstream Tasks: Image-text Retrieval, Visual Question Answering, Visual Entailment, Visual Reasoning
+      * 📚 Downstream Tasks: Image-text Retrieval, Visual Question Answering, Visual Entailment, Visual Reasoning
     * (arXiv preprint 2022) **MVP: Multi-Stage Vision-Language Pre-Training via Multi-Level Semantic Alignment**, Zejun Li et al. [[Paper](https://arxiv.org/abs/2201.12596)]
-      * Downstream Tasks: Image-text Retrieval, Multi-Modal Classification, Visual Grounding
+      * 📚 Downstream Tasks: Image-text Retrieval, Multi-Modal Classification, Visual Grounding
     * (arXiv preprint 2022) **BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation**, Junnan Li et al. [[Paper](https://arxiv.org/abs/2201.12086)] [[Code](https://github.com/salesforce/BLIP)]
-      * Downstream Tasks: Image-text Retrieval, Image Captioning, Visual Question Answering, Visual Reasoning, Visual Dialog
+      * 📚 Downstream Tasks: Image-text Retrieval, Image Captioning, Visual Question Answering, Visual Reasoning, Visual Dialog
     * (ICML 2021) **ViLT: Vision-and-Language Transformer Without Convolution or Region Supervision**, Wonjae Kim et al. [[Paper](https://arxiv.org/abs/2102.03334)]
-      * Downstream Tasks: Image Text Matching, Masked Language Modeling
+      * 📚 Downstream Tasks: Image Text Matching, Masked Language Modeling
 
 
 ## <span id="head3"> *3. Chronological Order* </span>
