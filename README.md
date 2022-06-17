@@ -65,6 +65,8 @@ A collection of resources on multimodal learning research.
     * (arXiv preprint 2022) **WuDaoMM: A large-scale Multi-Modal Dataset for Pre-training models**, Sha Yuan et al. [[Paper](https://arxiv.org/abs/2203.11480)] [[Download](https://github.com/BAAI-WuDao/WuDaoMM/)]
 
 * <span id="head-VLP"> **💬 Vision and language Pre-training (VLP)**  </span>
+    * ⭐⭐(arXiv preprint 2022) [💬Data Augmentation] **MixGen: A New Multi-Modal Data Augmentation**, Xiaoshuai Hao et al. [[Paper](https://arxiv.org/abs/2206.08358)]
+      * 📚 Downstream Tasks: Image-Text Retrieval, Visual Question Answering (VQA), Visual Grounding, Visual Reasoning, Visual Entailment
     * ⭐⭐(ICML 2022) **Multi-Grained Vision Language Pre-Training: Aligning Texts with Visual Concepts**, Yan Zeng et al. [[Paper](https://arxiv.org/abs/2111.08276)] [[Code](https://github.com/zengyan-97/X-VLM)]
       * 🚀 SOTA(2022/06/16): Cross-Modal Retrieval on COCO 2014 & Flickr30k, Visual Grounding on RefCOCO+ val & RefCOCO+ testA, RefCOCO+ testB 
       * 📚 Downstream Tasks: Image-Text Retrieval, Visual Question Answering (VQA), Natural Language for Visual Reasoning (NLVR2), Visual Grounding, Image Captioning
@@ -89,6 +91,7 @@ A collection of resources on multimodal learning research.
 ## <span id="head3"> *3. Chronological Order* </span>
 
 * <span id="head-2022"> **2022**  </span>
+    * (NAACL 2022) [💬Dialogue State Tracking] **Multimodal Dialogue State Tracking**, Hung Le et al. [[Paper](https://arxiv.org/abs/2206.07898)] 
     * (arXiv preprint 2022) [💬Multi-modal Multi-task] **MultiMAE: Multi-modal Multi-task Masked Autoencoders**, Roman Bachmann et al. [[Paper](https://arxiv.org/abs/2204.01678)] [[Code](https://github.com/EPFL-VILAB/MultiMAE)] [[Project](https://multimae.epfl.ch/)] 
     * (CVPR 2022) [💬Text-Video Retrieval] **X-Pool: Cross-Modal Language-Video Attention for Text-Video Retrieval**, Satya Krishna Gorti et al. [[Paper](https://arxiv.org/abs/2203.15086)] [[Code](https://github.com/layer6ai-labs/xpool)] [[Project](https://layer6ai-labs.github.io/xpool/)] 
     * (NAACL 2022 2022) [💬Visual Commonsense] **Visual Commonsense in Pretrained Unimodal and Multimodal Models**, Chenyu Zhang et al. [[Paper](https://arxiv.org/abs/2205.01850)] [[Code](https://github.com/ChenyuHeidiZhang/VL-commonsense)]
