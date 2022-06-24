@@ -65,6 +65,7 @@ A collection of resources on multimodal learning research.
     * (arXiv preprint 2022) **WuDaoMM: A large-scale Multi-Modal Dataset for Pre-training models**, Sha Yuan et al. [[Paper](https://arxiv.org/abs/2203.11480)] [[Download](https://github.com/BAAI-WuDao/WuDaoMM/)]
 
 * <span id="head-VLP"> **💬 Vision and language Pre-training (VLP)**  </span>
+    * ⭐⭐[**CVPR 2022 Tutorial**] **Recent Advances in Vision-and-Language Pre-training** [[Project](https://vlp-tutorial.github.io/2022/)] 
     * ⭐⭐(arXiv preprint 2022) [💬Data Augmentation] **MixGen: A New Multi-Modal Data Augmentation**, Xiaoshuai Hao et al. [[Paper](https://arxiv.org/abs/2206.08358)]
       * 📚 Downstream Tasks: Image-Text Retrieval, Visual Question Answering (VQA), Visual Grounding, Visual Reasoning, Visual Entailment
     * ⭐⭐(ICML 2022) **Multi-Grained Vision Language Pre-Training: Aligning Texts with Visual Concepts**, Yan Zeng et al. [[Paper](https://arxiv.org/abs/2111.08276)] [[Code](https://github.com/zengyan-97/X-VLM)]
