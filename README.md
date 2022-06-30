@@ -93,6 +93,7 @@ A collection of resources on multimodal learning research.
 ## <span id="head3"> *3. Chronological Order* </span>
 
 * <span id="head-2022"> **2022**  </span>
+    * (CVPR 2022) [💬Video Synthesis] **Show Me What and Tell Me How: Video Synthesis via Multimodal Conditioning**, Ligong Han et al. [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Han_Show_Me_What_and_Tell_Me_How_Video_Synthesis_via_CVPR_2022_paper.pdf)] [[Code](https://github.com/snap-research/MMVID)] [[Project](https://snap-research.github.io/MMVID/)]
     * (NAACL 2022) [💬Dialogue State Tracking] **Multimodal Dialogue State Tracking**, Hung Le et al. [[Paper](https://arxiv.org/abs/2206.07898)] 
     * (arXiv preprint 2022) [💬Multi-modal Multi-task] **MultiMAE: Multi-modal Multi-task Masked Autoencoders**, Roman Bachmann et al. [[Paper](https://arxiv.org/abs/2204.01678)] [[Code](https://github.com/EPFL-VILAB/MultiMAE)] [[Project](https://multimae.epfl.ch/)] 
     * (CVPR 2022) [💬Text-Video Retrieval] **X-Pool: Cross-Modal Language-Video Attention for Text-Video Retrieval**, Satya Krishna Gorti et al. [[Paper](https://arxiv.org/abs/2203.15086)] [[Code](https://github.com/layer6ai-labs/xpool)] [[Project](https://layer6ai-labs.github.io/xpool/)] 
