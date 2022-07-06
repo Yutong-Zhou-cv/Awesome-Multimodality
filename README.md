@@ -95,6 +95,8 @@ A collection of resources on multimodal learning research.
 ## <span id="head3"> *3. Chronological Order* </span>
 
 * <span id="head-2022"> **2022**  </span>
+    * (AI Ethics and Society 2022) [💬Multi-modal & Bias] **American == White in Multimodal Language-and-Image AI**, Robert Wolfe et al. [[Paper](https://arxiv.org/abs/2207.00691)] 
+    * (Interspeech 2022) [💬Audio-Visual Speech Separation] **Multi-Modal Multi-Correlation Learning for Audio-Visual Speech Separation**, Xiaoyu Wang et al. [[Paper](https://arxiv.org/abs/2207.01197)] 
     * (arXiv preprint 2022) [💬Multi-modal for Recommendation] **Personalized Showcases: Generating Multi-Modal Explanations for Recommendations**, An Yan et al. [[Paper](https://arxiv.org/abs/2207.00422)] 
     * (CVPR 2022) [💬Video Synthesis] **Show Me What and Tell Me How: Video Synthesis via Multimodal Conditioning**, Ligong Han et al. [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Han_Show_Me_What_and_Tell_Me_How_Video_Synthesis_via_CVPR_2022_paper.pdf)] [[Code](https://github.com/snap-research/MMVID)] [[Project](https://snap-research.github.io/MMVID/)]
     * (NAACL 2022) [💬Dialogue State Tracking] **Multimodal Dialogue State Tracking**, Hung Le et al. [[Paper](https://arxiv.org/abs/2206.07898)] 
