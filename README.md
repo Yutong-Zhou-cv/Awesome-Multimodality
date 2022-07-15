@@ -9,7 +9,7 @@
  ![GitHub forks](https://img.shields.io/github/forks/Yutong-Zhou-cv/Awesome-Multimodality.svg?color=yellow&style=for-the-badge) 
  ![GitHub activity](https://img.shields.io/github/last-commit/Yutong-Zhou-cv/Awesome-Multimodality?style=for-the-badge) 
  ![Visitors](https://visitor-badge.glitch.me/badge?page_id=Yutong-Zhou-cv/Awesome-Multimodality) 
-
+[![Star History Chart](https://api.star-history.com/svg?repos=Yutong-Zhou-cv/Awesome-Multimodality&type=Date)](https://star-history.com/#Yutong-Zhou-cv/Awesome-Multimodality&Date)
 </p>
 
 A collection of resources on multimodal learning research.
