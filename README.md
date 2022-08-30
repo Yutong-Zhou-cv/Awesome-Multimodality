@@ -50,6 +50,7 @@ A collection of resources on multimodal learning research.
 ## <span id="head2"> *2. Topic Order* </span>
 
 * <span id="head-Survey"> **[Survey](https://github.com/Yutong-Zhou-cv/Awesome-Survey-Papers)**  </span>
+    * (arXiv preprint 2022) [💬Cardiac Image Computing] **Multi-Modality Cardiac Image Computing: A Survey**, Lei Li et al. [[v1](https://arxiv.org/pdf/2208.12881.pdf)](2022.08.26)
     * (arXiv preprint 2022) [💬Vision and language Pre-training (VLP)] **Vision-and-Language Pretraining**, Thong Nguyen et al. [[v1](https://arxiv.org/abs/2207.01772)](2022.07.05)
     * (arXiv preprint 2022) [💬Video Saliency Detection] **A Comprehensive Survey on Video Saliency Detection with Auditory Information: the Audio-visual Consistency Perceptual is the Key!**, Chenglizhao Chen et al. [[v1](https://arxiv.org/abs/2206.13390)](2022.06.20)
     * (arXiv preprint 2022) [💬Transformer] **Multimodal Learning with Transformers: A Survey**, Peng Xu et al. [[v1](https://arxiv.org/abs/2206.06488)](2022.06.13)
