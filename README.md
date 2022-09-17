@@ -72,6 +72,8 @@ A collection of resources on multimodal learning research.
     * (arXiv preprint 2022) **WuDaoMM: A large-scale Multi-Modal Dataset for Pre-training models**, Sha Yuan et al. [[Paper](https://arxiv.org/abs/2203.11480)] [[Download](https://github.com/BAAI-WuDao/WuDaoMM/)]
 
 * <span id="head-VLP"> **💬 Vision and language Pre-training (VLP)**  </span>
+    * (arXiv preprint 2022) **PaLI: A Jointly-Scaled Multilingual Language-Image Model**, Xi Chen et al. [[Paper](https://arxiv.org/abs/2209.06794)]
+      * 📚 Downstream Tasks: Image Captioning, Visual Question Answering (VQA), Language-understanding Capabilities, Zero-shot Image Classification
     * ⭐⭐(arXiv preprint 2022) **Image as a Foreign Language: BEiT Pretraining for All Vision and Vision-Language Tasks**, Wenhui Wang et al. [[Paper](https://arxiv.org/abs/2208.10442)] [[Code](https://github.com/microsoft/unilm/tree/master/beit)]
     
       [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/image-as-a-foreign-language-beit-pretraining/semantic-segmentation-on-ade20k)](https://paperswithcode.com/sota/semantic-segmentation-on-ade20k?p=image-as-a-foreign-language-beit-pretraining)
@@ -88,7 +90,7 @@ A collection of resources on multimodal learning research.
       * 📚 【Visual-Language】Visual Question Answering (VQA), Visual Reasoning, Image Captioning, Image-Text Retrieval 
       * 📚 【Visual】Object Detection, nstance Segmentation, Semantic Segmentation, Image Classification
     * (ECCV 2022) **Exploiting Unlabeled Data with Vision and Language Models for Object Detection**, Shiyu Zhao et al. [[Paper](https://arxiv.org/abs/2207.08954)] [[Code](https://github.com/xiaofeng94/VL-PLM)]
-      * 📚 Open-vocabulary object detection, Semi-supervised object detection, Pseudo label generation
+      * 📚 Downstream Tasks: Open-vocabulary object detection, Semi-supervised object detection, Pseudo label generation
     * ⭐⭐[**CVPR 2022 Tutorial**] **Recent Advances in Vision-and-Language Pre-training** [[Project](https://vlp-tutorial.github.io/2022/)] 
     * ⭐⭐(arXiv preprint 2022) [💬Data Augmentation] **MixGen: A New Multi-Modal Data Augmentation**, Xiaoshuai Hao et al. [[Paper](https://arxiv.org/abs/2206.08358)]
       * 📚 Downstream Tasks: Image-Text Retrieval, Visual Question Answering (VQA), Visual Grounding, Visual Reasoning, Visual Entailment
