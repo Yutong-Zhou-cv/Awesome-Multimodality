@@ -50,6 +50,7 @@ A collection of resources on multimodal learning research.
 ## <span id="head2"> *2. Topic Order* </span>
 
 * <span id="head-Survey"> **[Survey](https://github.com/Yutong-Zhou-cv/Awesome-Survey-Papers)**  </span>
+     * ⭐(arXiv preprint 2022) **Vision+X: A Survey on Multimodal Learning in the Light of Data**, Ye Zhu et al. [[v1](https://arxiv.org/abs/2210.02884)](2022.10.05)
      * (arXiv preprint 2022) **Foundations and Recent Trends in Multimodal Machine Learning: Principles, Challenges, and Open Questions**, Paul Pu Liang et al. [[v1](https://arxiv.org/abs/2209.03430)](2022.09.07)
     * (arXiv preprint 2022) [💬Cardiac Image Computing] **Multi-Modality Cardiac Image Computing: A Survey**, Lei Li et al. [[v1](https://arxiv.org/pdf/2208.12881.pdf)](2022.08.26)
     * (arXiv preprint 2022) [💬Vision and language Pre-training (VLP)] **Vision-and-Language Pretraining**, Thong Nguyen et al. [[v1](https://arxiv.org/abs/2207.01772)](2022.07.05)
@@ -118,6 +119,7 @@ A collection of resources on multimodal learning research.
 ## <span id="head3"> *3. Chronological Order* </span>
 
 * <span id="head-2022"> **2022**  </span>
+    * (arXiv 2022) [💬Navigation] **Iterative Vision-and-Language Navigation**, Jacob Krantz et al. [[Paper](https://arxiv.org/abs/2210.03087)] 
     * (arXiv 2022) [💬Video Chapter Generation] **Multi-modal Video Chapter Generation**, Xiao Cao et al. [[Paper](https://arxiv.org/abs/2209.12694)] 
     * (arXiv 2022) [💬Visual Question Answering (VQA)] **TAG: Boosting Text-VQA via Text-aware Visual Question-answer Generation**, Jun Wang et al. [[Paper](https://arxiv.org/abs/2208.01813)] [[Code](https://github.com/HenryJunW/TAG)]
     * (AI Ethics and Society 2022) [💬Multi-modal & Bias] **American == White in Multimodal Language-and-Image AI**, Robert Wolfe et al. [[Paper](https://arxiv.org/abs/2207.00691)] 
