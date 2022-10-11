@@ -119,6 +119,7 @@ A collection of resources on multimodal learning research.
 ## <span id="head3"> *3. Chronological Order* </span>
 
 * <span id="head-2022"> **2022**  </span>
+    * (arXiv 2022) [💬Multimodal Modeling] **MAMO: Masked Multimodal Modeling for Fine-Grained Vision-Language Representation Learning**, Zijia Zhao et al. [[Paper](https://arxiv.org/abs/2210.04183)] 
     * (arXiv 2022) [💬Navigation] **Iterative Vision-and-Language Navigation**, Jacob Krantz et al. [[Paper](https://arxiv.org/abs/2210.03087)] 
     * (arXiv 2022) [💬Video Chapter Generation] **Multi-modal Video Chapter Generation**, Xiao Cao et al. [[Paper](https://arxiv.org/abs/2209.12694)] 
     * (arXiv 2022) [💬Visual Question Answering (VQA)] **TAG: Boosting Text-VQA via Text-aware Visual Question-answer Generation**, Jun Wang et al. [[Paper](https://arxiv.org/abs/2208.01813)] [[Code](https://github.com/HenryJunW/TAG)]
