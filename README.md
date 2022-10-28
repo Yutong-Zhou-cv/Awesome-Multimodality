@@ -74,6 +74,9 @@ A collection of resources on multimodal learning research.
     * (arXiv preprint 2022) **WuDaoMM: A large-scale Multi-Modal Dataset for Pre-training models**, Sha Yuan et al. [[Paper](https://arxiv.org/abs/2203.11480)] [[Download](https://github.com/BAAI-WuDao/WuDaoMM/)]
 
 * <span id="head-VLP"> **💬 Vision and language Pre-training (VLP)**  </span>
+    * (EMNLP 2022) **FaD-VLP: Fashion Vision-and-Language Pre-training towards Unified Retrieval and Captioning**, Suvir Mirchandani et al. [[Paper](https://arxiv.org/abs/2210.15028)]
+      * 📚 Downstream Tasks: Image-to-Text Retrieval & Text-to-Image Retrieval, Image Retrieval with Text Feedback, Category Recognition & Subcategory
+Recognition, Image Captioning, Relative Image Captioning
     * (arXiv preprint 2022) **PaLI: A Jointly-Scaled Multilingual Language-Image Model**, Xi Chen et al. [[Paper](https://arxiv.org/abs/2209.06794)]
       * 📚 Downstream Tasks: Image Captioning, Visual Question Answering (VQA), Language-understanding Capabilities, Zero-shot Image Classification
     * ⭐⭐(arXiv preprint 2022) **Image as a Foreign Language: BEiT Pretraining for All Vision and Vision-Language Tasks**, Wenhui Wang et al. [[Paper](https://arxiv.org/abs/2208.10442)] [[Code](https://github.com/microsoft/unilm/tree/master/beit)]
