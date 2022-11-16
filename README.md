@@ -123,6 +123,8 @@ Recognition, Image Captioning, Relative Image Captioning
 ## <span id="head3"> *3. Chronological Order* </span>
 
 * <span id="head-2022"> **2022**  </span>
+    * (arXiv preprint 2022) **Versatile Diffusion: Text, Images and Variations All in One Diffusion Model**, Xingqian Xu et al. [[Paper](https://arxiv.org/abs/2211.08332)] [[Code](https://github.com/SHI-Labs/Versatile-Diffusion)] [[Hugging Face](https://huggingface.co/spaces/shi-labs/Versatile-Diffusion)]
+      * 📚 Downstream Tasks: Text-to-Image, Image-Variation, Image-to-Text, Disentanglement, Text+Image-Guided Generation, Editable I2T2I
     * (Machine Intelligence Research) [💬Vision-language transformer] **Masked Vision-Language Transformer in Fashion**, Ge-Peng Ji et al. [[Paper](https://arxiv.org/abs/2210.15110)] [[Code](https://github.com/GewelsJI/MVLT)]
     * (arXiv 2022) [💬Multimodal Modeling] **MAMO: Masked Multimodal Modeling for Fine-Grained Vision-Language Representation Learning**, Zijia Zhao et al. [[Paper](https://arxiv.org/abs/2210.04183)] 
     * (arXiv 2022) [💬Navigation] **Iterative Vision-and-Language Navigation**, Jacob Krantz et al. [[Paper](https://arxiv.org/abs/2210.03087)] 
