@@ -161,7 +161,7 @@ Recognition, Image Captioning, Relative Image Captioning
 
 ## <span id="head4"> *3.Courses* </span>
 
-* [CMU Multimodal Learning](https://cmu-multicomp-lab.github.io/mmml-course/fall2020/)
+* [CMU MultiModal Machine Learning](https://cmu-multicomp-lab.github.io/mmml-course/fall2020/)
 
 ## <span id="head5"> *Contact Me* </span>
 
