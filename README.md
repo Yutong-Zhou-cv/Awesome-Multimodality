@@ -50,6 +50,7 @@ A collection of resources on multimodal learning research.
 ## <span id="head2"> *2. Topic Order* </span>
 
 * <span id="head-Survey"> **[Survey](https://github.com/Yutong-Zhou-cv/Awesome-Survey-Papers)**  </span>
+     * ⭐⭐(arXiv preprint 2023) **Multimodal Deep Learning**, Cem Akkus et al. [[v1](https://arxiv.org/abs/2301.04856)](2023.01.12)
      * ⭐(arXiv preprint 2022) [💬Knowledge Enhanced] **A survey on knowledge-enhanced multimodal learning**, Maria Lymperaiou et al. [[v1](https://arxiv.org/abs/2211.12328)](2022.11.19)
      * ⭐⭐(arXiv preprint 2022) **Vision-Language Pre-training: Basics, Recent Advances, and Future Trends**, Zhe Gan et al. [[v1](https://arxiv.org/abs/2210.09263)](2022.10.17)
      * ⭐(arXiv preprint 2022) **Vision+X: A Survey on Multimodal Learning in the Light of Data**, Ye Zhu et al. [[v1](https://arxiv.org/abs/2210.02884)](2022.10.05)
