@@ -24,9 +24,10 @@ A collection of resources on multimodal learning research.
   * - [ ] [💬 Vision and language Pre-training (VLP)](#head-VLP)
 * - [ ] [3. Chronological Order](#head3)
   * - [ ] [Survey](#head-Survey)
+  * - [ ] [2022](#head-2023)
   * - [ ] [2022](#head-2022)
-  * - [ ] [2021](#head-2021)
-  * - [ ] [2020](#head-2020)
+  * - [x] [2021](#head-2021)
+  * - [x] [2020](#head-2020)
 
 * - [ ] [4. Courses](#head4)
 
@@ -130,6 +131,10 @@ Recognition, Image Captioning, Relative Image Captioning
 
 ## <span id="head3"> *3. Chronological Order* </span>
 
+* <span id="head-2023"> **2023**  </span>
+    * (arXiv preprint 2023) **Multimodality Helps Unimodality: Cross-Modal Few-Shot Learning with Multimodal Models**, Zhiqiu Lin et al. [[Paper](https://arxiv.org/abs/2301.06267)] [[Project](https://linzhiqiu.github.io/papers/cross_modal/)] [[Code](https://github.com/linzhiqiu/cross_modal_adaptation)]
+    
+    
 * <span id="head-2022"> **2022**  </span>
     * (arXiv preprint 2022) [💬Visual Metaphors] **MetaCLUE: Towards Comprehensive Visual Metaphors Research**, Arjun R. Akula et al. [[Paper](https://arxiv.org/abs/2212.09898)] [[Project](https://metaclue.github.io/)] 
     * (arXiv preprint 2022) **MM-SHAP: A Performance-agnostic Metric for Measuring Multimodal Contributions in Vision and Language Models & Tasks**, Letitia Parcalabescu et al. [[Paper](https://arxiv.org/abs/2212.08158)] [[Code](https://github.com/Heidelberg-NLP/MM-SHAP)] 
