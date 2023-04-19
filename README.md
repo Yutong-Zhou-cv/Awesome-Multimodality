@@ -24,7 +24,7 @@ A collection of resources on multimodal learning research.
   * - [ ] [💬 Vision and language Pre-training (VLP)](#head-VLP)
 * - [ ] [3. Chronological Order](#head3)
   * - [ ] [Survey](#head-Survey)
-  * - [ ] [2022](#head-2023)
+  * - [ ] [2023](#head-2023)
   * - [ ] [2022](#head-2022)
   * - [x] [2021](#head-2021)
   * - [x] [2020](#head-2020)
