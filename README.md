@@ -133,6 +133,7 @@ Recognition, Image Captioning, Relative Image Captioning
 ## <span id="head3"> *3. Chronological Order* </span>
 
 * <span id="head-2023"> **2023**  </span>
+    * ⭐⭐(arXiv preprint 2023) **mPLUG-Owl: Modularization Empowers Large Language Models with Multimodality**, Qinghao Ye et al. [[Paper](https://arxiv.org/abs/2304.14178)] [[Demo](https://www.modelscope.cn/studios/damo/mPLUG-Owl/summary)] [[Code](https://github.com/X-PLUG/mPLUG-Owl)]
     * (arXiv preprint 2023) **Multimodality Helps Unimodality: Cross-Modal Few-Shot Learning with Multimodal Models**, Zhiqiu Lin et al. [[Paper](https://arxiv.org/abs/2301.06267)] [[Project](https://linzhiqiu.github.io/papers/cross_modal/)] [[Code](https://github.com/linzhiqiu/cross_modal_adaptation)]
     
     
