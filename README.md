@@ -133,6 +133,10 @@ Recognition, Image Captioning, Relative Image Captioning
 ## <span id="head3"> *3. Chronological Order* </span>
 
 * <span id="head-2023"> **2023**  </span>
+    * ⭐⭐(arXiv preprint 2023) **Any-to-Any Generation via Composable Diffusion**, Zineng Tang et al. [[Paper](https://arxiv.org/abs/2305.11846)] [[Project](https://codi-gen.github.io/)] [[Code](https://github.com/microsoft/i-Code/tree/main/i-Code-V3)] 
+      * 📚[Single-to-Single Generation] Text → Image, Audio → Image, Image → Video, Image → Audio, Audio → Text, Image → Text
+      * 📚[Multi-Outputs Joint Generation] Text → Video + Audio, Text → Text + Audio + Image, Text + Image → Text + Image
+      * 📚[Multiple Conditioning] Text + Audio → Image, Text + Image → Image, Text + Audio + Image → Image, Text + Audio → Video, Text + Image → Video, Video + Audio → Text, Image + Audio → Audio, Text + Image → Audio
     * ⭐⭐(arXiv preprint 2023) **mPLUG-Owl: Modularization Empowers Large Language Models with Multimodality**, Qinghao Ye et al. [[Paper](https://arxiv.org/abs/2304.14178)] [[Demo](https://www.modelscope.cn/studios/damo/mPLUG-Owl/summary)] [[Code](https://github.com/X-PLUG/mPLUG-Owl)]
     * (arXiv preprint 2023) **Multimodality Helps Unimodality: Cross-Modal Few-Shot Learning with Multimodal Models**, Zhiqiu Lin et al. [[Paper](https://arxiv.org/abs/2301.06267)] [[Project](https://linzhiqiu.github.io/papers/cross_modal/)] [[Code](https://github.com/linzhiqiu/cross_modal_adaptation)]
     
