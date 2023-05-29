@@ -51,6 +51,7 @@ A collection of resources on multimodal learning research.
 ## <span id="head2"> *2. Topic Order* </span>
 
 * <span id="head-Survey"> **[Survey](https://github.com/Yutong-Zhou-cv/Awesome-Survey-Papers)**  </span>
+    * (TPAMI 2023) [💬Transformer] **Multimodal Learning with Transformers: A Survey**, Peng Xu et al. [[v1](https://arxiv.org/abs/2206.06488)](2022.06.13) [[v2](https://ieeexplore.ieee.org/abstract/document/10123038)](2023.05.11)
     * (Multimedia Tools and Applications) **A comprehensive survey on generative adversarial networks used for synthesizing multimedia content**, Lalit Kumar & Dushyant Kumar Singh [[v1](https://link.springer.com/article/10.1007/s11042-023-15138-x#Sec47)](2023.03.30)
     * ⭐⭐(arXiv preprint 2023) **Multimodal Deep Learning**, Cem Akkus et al. [[v1](https://arxiv.org/abs/2301.04856)](2023.01.12)
     * ⭐(arXiv preprint 2022) [💬Knowledge Enhanced] **A survey on knowledge-enhanced multimodal learning**, Maria Lymperaiou et al. [[v1](https://arxiv.org/abs/2211.12328)](2022.11.19)
@@ -60,7 +61,6 @@ A collection of resources on multimodal learning research.
     * (arXiv preprint 2022) [💬Cardiac Image Computing] **Multi-Modality Cardiac Image Computing: A Survey**, Lei Li et al. [[v1](https://arxiv.org/pdf/2208.12881.pdf)](2022.08.26)
     * (arXiv preprint 2022) [💬Vision and language Pre-training (VLP)] **Vision-and-Language Pretraining**, Thong Nguyen et al. [[v1](https://arxiv.org/abs/2207.01772)](2022.07.05)
     * (arXiv preprint 2022) [💬Video Saliency Detection] **A Comprehensive Survey on Video Saliency Detection with Auditory Information: the Audio-visual Consistency Perceptual is the Key!**, Chenglizhao Chen et al. [[v1](https://arxiv.org/abs/2206.13390)](2022.06.20)
-    * (arXiv preprint 2022) [💬Transformer] **Multimodal Learning with Transformers: A Survey**, Peng Xu et al. [[v1](https://arxiv.org/abs/2206.06488)](2022.06.13)
     * (arXiv preprint 2022) [💬Vision and language Pre-training (VLP)] **Vision-and-Language Pretrained Models: A Survey**, Siqu Long et al. [[v1](https://arxiv.org/abs/2204.07356v1)](2022.04.15)...[[v5](https://arxiv.org/abs/2204.07356v5)](2022.05.03) 
     * (arXiv preprint 2022) [💬Vision and language Pre-training (VLP)] **VLP: A Survey on Vision-Language Pre-training**, Feilong Chen et al. [[v1](https://arxiv.org/abs/2202.09061v1)](2022.02.18) [[v2](https://arxiv.org/abs/2202.09061v2)](2022.02.21) 
     * (arXiv preprint 2022) [💬Vision and language Pre-training (VLP)] **A Survey of Vision-Language Pre-Trained Models**, Yifan Du et al. [[v1](https://arxiv.org/abs/2202.10936)](2022.02.18) 
