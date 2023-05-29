@@ -133,6 +133,7 @@ Recognition, Image Captioning, Relative Image Captioning
 ## <span id="head3"> *3. Chronological Order* </span>
 
 * <span id="head-2023"> **2023**  </span>
+    * (arXiv preprint 2023) **Cheap and Quick: Efficient Vision-Language Instruction Tuning for Large Language Models**, Gen Luo et al. [[Paper](https://arxiv.org/abs/2305.15023)] [[Project](https://luogen1996.github.io/lavin/)] [[Code](https://github.com/luogen1996/LaVIN)]
     * ⭐⭐(arXiv preprint 2023) **Any-to-Any Generation via Composable Diffusion**, Zineng Tang et al. [[Paper](https://arxiv.org/abs/2305.11846)] [[Project](https://codi-gen.github.io/)] [[Code](https://github.com/microsoft/i-Code/tree/main/i-Code-V3)] 
       * 📚[Single-to-Single Generation] Text → Image, Audio → Image, Image → Video, Image → Audio, Audio → Text, Image → Text
       * 📚[Multi-Outputs Joint Generation] Text → Video + Audio, Text → Text + Audio + Image, Text + Image → Text + Image
