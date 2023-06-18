@@ -70,6 +70,7 @@ A collection of resources on multimodal learning research.
     * (Information Fusion 2021) [💬Vision and language] **Multimodal research in vision and language: A review of current and emerging trends**, ShagunUppal et al. [[v1](https://www.sciencedirect.com/science/article/pii/S1566253521001512)](2021.08.01) 
 
 * <span id="head-dataset"> **👑 Dataset**  </span>
+    * (arXiv preprint 2023) **Sticker820K: Empowering Interactive Retrieval with Stickers**, Sijie Zhao et al. [[Paper](https://arxiv.org/abs/2306.06870)] [[Github](https://github.com/sijeh/Sticker820K)]
     * (arXiv preprint 2023) **Macaw-LLM: Multi-Modal Language Modeling with Image, Audio, Video, and Text Integration**, Chenyang Lyu et al. [[Paper](https://arxiv.org/abs/2306.09093)] [[Github](https://github.com/lyuchenyang/Macaw-LLMl)]
     * (arXiv preprint 2022) **Wukong: 100 Million Large-scale Chinese Cross-modal Pre-training Dataset and A Foundation Framework**, Jiaxi Gu et al. [[Paper](https://arxiv.org/abs/2202.06767)] [[Download](https://wukong-dataset.github.io/wukong-dataset/download.html)]
         * The Noah-Wukong dataset is a large-scale multi-modality Chinese dataset.
