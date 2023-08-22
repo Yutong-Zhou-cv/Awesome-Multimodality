@@ -19,11 +19,10 @@ A collection of resources on multimodal learning research.
 ## <span id="head-content"> *Content* </span>
 * - [ ] [1. Description](#head1)
 * - [ ] [2. Topic Order](#head2)
-  * - [ ] [Survey](#head-Survey)
+  * - [ ] [Survey](#head-survey)
   * - [ ] [👑 Dataset](#head-dataset)
   * - [ ] [💬 Vision and language Pre-training (VLP)](#head-VLP)
 * - [ ] [3. Chronological Order](#head3)
-  * - [ ] [Survey](#head-Survey)
   * - [ ] [2023](#head-2023)
   * - [ ] [2022](#head-2022)
   * - [x] [2021](#head-2021)
@@ -50,7 +49,7 @@ A collection of resources on multimodal learning research.
 
 ## <span id="head2"> *2. Topic Order* </span>
 
-* <span id="head-Survey"> **[Survey](https://github.com/Yutong-Zhou-cv/Awesome-Survey-Papers)**  </span>
+* <span id="head-survey"> **[Survey](https://github.com/Yutong-Zhou-cv/Awesome-Survey-Papers)**  </span>
     * (TPAMI 2023) **Multimodal Image Synthesis and Editing: A Survey and Taxonomy**, Fangneng Zhan et al. [[v1](https://arxiv.org/abs/2112.13592v1)](2021.12.27) ... [[v5](https://arxiv.org/abs/2112.13592v5)](2023.08.05)
     * (TPAMI 2023) [💬Transformer] **Multimodal Learning with Transformers: A Survey**, Peng Xu et al. [[v1](https://arxiv.org/abs/2206.06488)](2022.06.13) [[v2](https://ieeexplore.ieee.org/abstract/document/10123038)](2023.05.11)
     * (Multimedia Tools and Applications) **A comprehensive survey on generative adversarial networks used for synthesizing multimedia content**, Lalit Kumar & Dushyant Kumar Singh [[v1](https://link.springer.com/article/10.1007/s11042-023-15138-x#Sec47)](2023.03.30)
