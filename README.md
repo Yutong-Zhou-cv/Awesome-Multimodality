@@ -134,6 +134,16 @@ Recognition, Image Captioning, Relative Image Captioning
 
 ## <span id="head3"> *3. Chronological Order* </span>
 
+* <span id="head-2026"> **2026** </span>
+    * (arXiv 2026) **VideoJev: System One Model for Video Understanding and Interaction**, Yuhan Zhu et al. [[Paper](https://arxiv.org/abs/2610.18615)] [[Code](https://github.com/MCG-NJU/VideoJev)]
+    * (arXiv 2026) **OneStreamer: Unifying Perception, Memory, and Proactive Response in Streaming Video Interaction**, Xiangyu Zeng et al. [[Paper](https://arxiv.org/abs/2610.01762)] [[Code](https://github.com/MCG-NJU/OneStreamer)]
+    * (arXiv 2026) **TimeLens2: Generalist Video Temporal Grounding with Multimodal LLMs**, Yuhan Zhu et al. [[Paper](https://arxiv.org/abs/2607.17423)] [[Code](https://github.com/MCG-NJU/TimeLens2)]
+    * (arXiv 2026) **VideoChat3: Fully Open Video MLLM for Efficient and Generalist Video Understanding**, Xinhao Li et al. [[Paper](https://arxiv.org/abs/2607.14935)] [[Code](https://github.com/MCG-NJU/VideoChat3)]
+    * (ICML 2026) **Video-o3: Native Interleaved Clue Seeking for Long Video Multi-Hop Reasoning**, Xiangyu Zeng et al. [[Paper](https://arxiv.org/abs/2601.23224)] [[Code](https://github.com/MCG-NJU/Video-o3)]
+
+* <span id="head-2025"> **2025** </span>
+    * (ICML 2026) **FreeRet: MLLMs as Training-Free Retrievers**, Yuhan Zhu et al. [[Paper](https://arxiv.org/abs/2509.24621)] [[Code](https://github.com/MCG-NJU/FreeRet)]
+
 * <span id="head-2023"> **2023**  </span>
     * (arXiv preprint 2023) **Accountable Textual-Visual Chat Learns to Reject Human Instructions in Image Re-creation**, Zhiwei Zhang et al. [[Paper](https://arxiv.org/abs/2303.05983)] [[Project](https://matrix-alpha.github.io/)] [[Code](https://github.com/matrix-alpha/Accountable-Textual-Visual-Chat)]
     * (arXiv preprint 2023) **Cheap and Quick: Efficient Vision-Language Instruction Tuning for Large Language Models**, Gen Luo et al. [[Paper](https://arxiv.org/abs/2305.15023)] [[Project](https://luogen1996.github.io/lavin/)] [[Code](https://github.com/luogen1996/LaVIN)]
