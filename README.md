@@ -135,10 +135,12 @@ Recognition, Image Captioning, Relative Image Captioning
 ## <span id="head3"> *3. Chronological Order* </span>
 
 * <span id="head-2026"> **2026** </span>
+    * (arXiv 2026) **MJev-Spatial: System One Spatial Intelligence via Native Attention Matching**, Luozheng Qin et al. [[Paper](https://arxiv.org/abs/2610.22276)] [[Code](https://github.com/Fr0zenCrane/MJev-Spatial)]
     * (arXiv 2026) **VideoJev: System One Model for Video Understanding and Interaction**, Yuhan Zhu et al. [[Paper](https://arxiv.org/abs/2610.18615)] [[Code](https://github.com/MCG-NJU/VideoJev)]
     * (arXiv 2026) **OneStreamer: Unifying Perception, Memory, and Proactive Response in Streaming Video Interaction**, Xiangyu Zeng et al. [[Paper](https://arxiv.org/abs/2610.01762)] [[Code](https://github.com/MCG-NJU/OneStreamer)]
     * (arXiv 2026) **TimeLens2: Generalist Video Temporal Grounding with Multimodal LLMs**, Yuhan Zhu et al. [[Paper](https://arxiv.org/abs/2607.17423)] [[Code](https://github.com/MCG-NJU/TimeLens2)]
     * (arXiv 2026) **VideoChat3: Fully Open Video MLLM for Efficient and Generalist Video Understanding**, Xinhao Li et al. [[Paper](https://arxiv.org/abs/2607.14935)] [[Code](https://github.com/MCG-NJU/VideoChat3)]
+    * (arXiv 2026) **JoyAI-VL-Interaction: Real-Time Vision-Language Interaction Intelligence**, Dingyu Yao et al. [[Paper](https://arxiv.org/abs/2606.14777)] [[Code](https://github.com/jd-opensource/JoyAI-VL-Interaction)]
     * (ICML 2026) **Video-o3: Native Interleaved Clue Seeking for Long Video Multi-Hop Reasoning**, Xiangyu Zeng et al. [[Paper](https://arxiv.org/abs/2601.23224)] [[Code](https://github.com/MCG-NJU/Video-o3)]
 
 * <span id="head-2025"> **2025** </span>
